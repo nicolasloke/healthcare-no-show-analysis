@@ -54,6 +54,15 @@ Key metrics:
 
 ---
 
+## Technical Highlights
+
+- Data validation and cleaning using SQL Server
+- Feature engineering (lead_time_days)
+- Conditional aggregation using SUM(CASE WHEN...)
+- Scenario modeling using DAX measures
+- Interactive Power BI dashboard with filter context
+
+
 ## Files Included
 - `/sql` → SQL scripts used for data cleaning and analysis
 - `/powerbi` → Dashboard screenshots
