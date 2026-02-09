@@ -3,6 +3,10 @@
 ## Overview
 This project analyzes outpatient appointment data to identify drivers of no-shows and estimate operational impact. The goal is to explore how scheduling lead time affects attendance and access performance.
 
+## Business Context
+
+Missed outpatient appointments reduce clinic efficiency, delay care access, and increase operational costs. This analysis explores how scheduling lead time influences attendance behavior and estimates the potential operational impact of reducing wait times.
+
 ## Tools Used
 - Microsoft SQL Server (SSMS)
 - Power BI Desktop
