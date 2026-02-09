@@ -45,7 +45,7 @@ Key metrics:
 - Approximately 2.9K missed visits could potentially be avoided under a reduced lead-time scenario (baseline comparison).
 
 ## Dashboard Preview
-![Dashboard](Healthcare Portfolio PowerBI Dashboard Screenshot.png)
+!(Healthcare Portfolio PowerBI Dashboard Screenshot.png)
 
 ---
 
