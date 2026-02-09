@@ -44,8 +44,12 @@ Key metrics:
 - Appointments scheduled 31+ days out showed ~33% no-show rates.
 - Approximately 2.9K missed visits could potentially be avoided under a reduced lead-time scenario (baseline comparison).
 
+## Dashboard Preview
+![Dashboard](powerbi/dashboard_screenshot.png)
+
 ---
 
 ## Files Included
 - `/sql` → SQL scripts used for data cleaning and analysis
 - `/powerbi` → Dashboard screenshots
+- 'powerbi file
